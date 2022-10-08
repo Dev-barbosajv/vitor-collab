@@ -16,4 +16,4 @@
 )
 
 Apaixonado por tecnologia. <br>
-Dev Front-end Jr, Estudando HTML, CSS, JS.
+Dev Full Stack Jr, Estudando HTML, CSS, JS.
