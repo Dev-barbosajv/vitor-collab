@@ -16,4 +16,4 @@
 )
 
 Apaixonado por tecnologia. <br>
-Dev Full Stack Jr, Estudando HTML, CSS, JS.
+Analista de Sistemas | Desenvolvedor Python | Analista de TI
